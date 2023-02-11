@@ -2,7 +2,7 @@ package shorten
 
 import "strings"
 
-const aplphabet = "ynAJfoSgdXHB5VasEMtcbPCr1uNZ4LG723ehWkvwYR6KpxjTm8iQUF"
+const aplphabet = "ynAJfoSgdXHB5VasEMtcbPCr1uNZ4LG723ehWkvwYR6KpxjTm8iQUFqz9D"
 
 var aplphabetLen = uint32(len(aplphabet))
 
